@@ -1,6 +1,6 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" />
+  <img src="https://cdn.dribbble.com/userupload/41838863/file/original-e19956eb5b7f3d9b292ef0786e34a17a.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm OM SHINDE</h1>
