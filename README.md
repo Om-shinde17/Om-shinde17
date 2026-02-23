@@ -1,87 +1,59 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=200&section=header&text=Hi%20There!%20I'm%20Your%20Name%20👋&fontSize=35&fontColor=ffffff" />
+<!-- Banner Image -->
+![Banner](https://your-image-url-here/banner.png)
 
-# 👨‍💻 About Me
-🎯 Passionate Data Analyst with strong skills in data cleaning, visualization, and business insights.  
-📊 I transform raw data into meaningful insights that drive decisions.  
-📈 Interested in Data Science, Machine Learning & Business Intelligence.  
+# Hey, I'm **Your Name** 👋
 
----
-
-# 🛠️ Technical Skills
-
-### 📌 Programming & Query Languages
-- Python 🐍
-- SQL 🗄️
-- R 📊
-
-### 📌 Data Visualization
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-
-### 📌 Data Analysis & Libraries
-- Pandas
-- NumPy
-- Scikit-learn
-- Excel (Advanced)
-
-### 📌 Tools & Platforms
-- Jupyter Notebook
-- Git & GitHub
-- MySQL
-- Google Sheets
+### 💼 Professional Summary
+I'm a passionate developer / data analyst / designer (edit to suit you), skilled in technologies like:
+- **Languages:** JavaScript, Python, C++  
+- **Tools & Frameworks:** React, Node.js, Django, Git  
+- **Areas of Interest:** Web Development, Open Source, UX/UI
 
 ---
 
-# 📂 Featured Projects
+### 🛠️ Technical Skills
 
-## 🔹 Sales Data Analysis
-- Analyzed 10,000+ sales records
-- Built interactive Power BI dashboard
-- Increased reporting efficiency by 30%
-
-## 🔹 Customer Churn Prediction
-- Built ML model using Logistic Regression
-- Achieved 85% accuracy
-- Used Python, Pandas, Scikit-learn
-
-## 🔹 HR Analytics Dashboard
-- Visualized employee attrition trends
-- Created Tableau dashboard
-- Provided insights for HR decision-making
+| Category | Skills |
+|----------|--------|
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend  | Node.js, Express, Python |
+| Data     | Python, SQL, Pandas, NumPy |
+| Dev Tools| Git, GitHub, VS Code |
 
 ---
 
-# 📊 GitHub Stats
+### 💼 Work Experience
+**Role Title @ Company Name**  
+*Timeline*  
+- Describe what you did  
+- Tools/Technologies used
+- Major achievement/results
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+---
+
+### 💻 Projects
+
+#### 🔗 [Project Name 1](https://github.com/your-username/project1)
+- 😀 Short description about the project  
+- 🛠 Tech used: React, Node, Express
+
+#### 🔗 [Project Name 2](https://github.com/your-username/project2)
+- 🧠 Another short description  
+- 🛠 Tech used: Python, Flask
+
+---
+
+### 📈 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> •
+  <a href="https://your-portfolio.com" target="_blank">Website</a>
 </p>
-
----
-
-# 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Certifications
-- Google Data Analytics Certification
-- Microsoft Power BI Certification
-- SQL for Data Analysis
-
----
-
-# 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your-email@gmail.com
-- 🌐 Portfolio: https://your-portfolio.com
-
----
-
-⭐ “Without data, you're just another person with an opinion.” – W. Edwards Deming
